@@ -1,18 +1,10 @@
 
 //****************************************************************************************
-// Student Name: Devanshi Paliwal & Tara Rao-Pandit
+// Contributors: Tara Rao-Pandit & Devanshi Paliwal 
 //
-// SYDE 121 Assignment #4: C/C++ Arrays and Vectors, String Manipulation, Modular Design
-// Filename: a4_q1
-//
-// I hereby declare that this code, submitted for credit for the course
-// SYDE 121, is a product of my own efforts. This coded solution has
-// not been plagiarized from other sources and has not been knowingly
-// plagiarized by others.
-//
-// Project: Tic-Tac-Toe Game
+// C/C++ Arrays and Vectors, String Manipulation, Modular Design
 // Purpose: A program that will allow two users to play 4x4 Tic-Tac-Toe
-// Due Date: Friday, November 6, 2020
+// November 6, 2020
 //***********************************************************************
 
 /* TESTING SCENARIOS:
